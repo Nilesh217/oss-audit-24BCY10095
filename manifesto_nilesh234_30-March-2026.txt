@@ -1,0 +1,14 @@
+==========================================
+        My Open Source Manifesto
+        Date: 30-March-2026
+==========================================
+
+Every day I rely on Kali Linux, a tool built by the open-source community,
+which reminds me that true power comes from sharing knowledge freely.
+To me, 'Trust' embodies the spirit of collaboration and innovation.
+I aspire to build and share Program files openly, contributing to a world where technology
+is accessible to all, and where ideas can grow beyond individual ownership.
+
+Open source is not just software; it is a philosophy of collective growth.
+By sharing our creations, we ensure that everyone benefits and learns.
+==========================================
