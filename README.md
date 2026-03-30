@@ -65,7 +65,7 @@ chmod +x script*.sh
 #### Script 4
 
 ```bash
-./script4.sh /var/log/syslog error
+./script4.sh /var/log/dpkg.log error
 ```
 
 #### Script 5
